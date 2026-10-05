@@ -1,5 +1,5 @@
 # Hi to everyone, André Marques speaking here! 👋
-### Data Scientist | Educator | Computer Engineering PhD Candidate | Engineer
+### Applied AI Engineer | Data Scientist | Engineer | GenAI, LLMs, RAG, MLOps, Deep Learning, Data Engineering & Energy Systems
 
 Welcome to my digital workbench and laboratory! I stand at the intersection of **Data Science** and **Sustainable Energy Engineering** nowadays. 
 My passion is using code to address/solve complex problems in computer systems, enterprise challenges, sustainable energy development and empowering the next generation of developers.
