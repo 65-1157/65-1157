@@ -1,15 +1,46 @@
-# Hi to everyone, André Marques speaking here! 👋
-### Applied AI Engineer | Data Scientist | Engineer | GenAI, LLMs, RAG, MLOps, Deep Learning, Data Engineering & Energy Systems
+# Hi everyone, André Marques speaking here! 👋
 
-Welcome to my digital workbench and laboratory! I stand at the intersection of **Data Science** and **Sustainable Energy Engineering** nowadays. 
-My passion is using code to address/solve complex problems in computer systems, enterprise challenges, sustainable energy development and empowering the next generation of developers.
+### Applied AI Engineer | Data Scientist | Engineer | PhD Candidate in Computer Engineering
+
+I build production-oriented AI and data solutions connecting **Generative AI, LLMs, RAG, Deep Learning, Machine Learning, Data Engineering and MLOps** to real engineering and business problems.
+
+My background combines engineering, energy systems, applied research and software development, with current work focused on transforming AI models into reproducible and usable systems.
+
+## 🚀 Current Focus
+
+- **Applied AI & Generative AI:** RAG, document intelligence, LLM adaptation, LoRA, structured outputs, evaluation and guardrails.
+- **Deep Learning & Machine Learning:** Transformers, PyTorch, self-supervised learning, embeddings, classification, anomaly detection and forecasting.
+- **AI Engineering & MLOps:** FastAPI, MLflow, Docker, automated testing, model serving and reproducible ML pipelines.
+- **Data Engineering:** Python, SQL, PySpark, Databricks and cloud-based data workflows.
+- **Engineering & Energy AI:** renewable-energy forecasting, optimization and data-driven engineering applications.
+
+## 🧠 Selected Applied AI Portfolio
+
+The repositories pinned below demonstrate work across:
+
+**RAG & Document Intelligence → Transformers & Deep Learning → LLM Fine-Tuning → Data Engineering & Fraud Detection → MLOps & APIs → Renewable Energy AI**
+
+## 🛠️ Core Technologies
+
+**AI / ML:** Python · PyTorch · Transformers · Hugging Face · Scikit-learn · LoRA/PEFT
+
+**GenAI:** LLMs · RAG · Embeddings · Vector Search · Structured Outputs · Model Evaluation
+
+**Engineering:** FastAPI · Docker · MLflow · PySpark · SQL · Git · Automated Testing
+
+**Platforms:** Databricks · AWS · Google Cloud · Microsoft Azure
+
+## 🎓 Research & Teaching
+
+I also work in applied research involving solar and wind energy systems and teach Computer Science and Software Engineering subjects, including algorithms, data science and object-oriented programming.
+
+## 📫 Let's Connect
+
+LinkedIn: [André Marques](YOUR_CURRENT_LINKEDIN_URL)
 
 ---
 
-### 🚀 What I'm Working On
-* 📊 **Data Science:** Exploring forecasting and classification models, dynamic programming and Generative AI. Nowadays I work at LEEGA.
-* 🌱 **PhD Research:** Developing forecasting algorithms for Solar and Wind Energies Systems at Universidade de São Paulo - USP/Brazil.
-* 🎓 **Teaching:** simplifying complex programming concepts for students in Dynamic Programming, Data Science and Oriented Object Programming. Nowadays, I teach at UNIP and FIAP.
+*"Practical computing solutions on the road"*
 
 
 ### 🛠️ Tech Stack & Tools
