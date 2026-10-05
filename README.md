@@ -36,7 +36,7 @@ I also work in applied research involving solar and wind energy systems and teac
 
 ## 📫 Let's Connect
 
-LinkedIn: [André Marques](YOUR_CURRENT_LINKEDIN_URL)
+LinkedIn: [André Marques]([https://www.linkedin.com/in/andre-luis-ferreira-marques/)
 
 ---
 
