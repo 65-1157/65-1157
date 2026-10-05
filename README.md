@@ -63,7 +63,7 @@ LinkedIn: [André Marques](YOUR_CURRENT_LINKEDIN_URL)
 
 ### 📫 Let's Connect
 I am always open to work on forecast and classification algorithms, using Deep and Machine Learning, and most recently with Generative AI.
-You can find more at: https://www.linkedin.com/in/andre-luis-ferreira-marques/
+You can find more at: [https://www.linkedin.com/in/andre-luis-ferreira-marques/](https://www.linkedin.com/in/andre-luis-ferreira-marques
 
 ---
 *“Practical computing solutions on the road”*
